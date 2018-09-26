@@ -6,11 +6,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:kpbioteam
-email:kpbioteam@gmail.com
+owner: kpbioteam
+email: kpbioteam@gmail.com
 facebook_username:
-twitter_username:bioinfbrad
-github_username:kpbioteam
+twitter_username: bioinfbrad
+github_username: kpbioteam
 address:
   - line:
   - line:
