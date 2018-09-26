@@ -1,8 +1,7 @@
 # Site settings
 title:
 email:
-description: > # this means to ignore newlines until "baseurl:"
-KpBioTeam hope you find this site a useful source of information about BioIT research at University of Bradford.   
+description: > KpBioTeam hope you find this site a useful source of information about BioIT research at University of Bradford.   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
